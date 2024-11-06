@@ -1,4 +1,7 @@
 # Smart Home Control System using PIC18F4620 Microcontrollers
+![image](https://github.com/user-attachments/assets/c654f969-92be-49f8-a35b-2ab721203352)
+![image](https://github.com/user-attachments/assets/fd412120-4a82-4230-b705-927fcf46ec0b)
+
 
 ## Project Overview
 This project implements a smart home control system with three PIC18F4620 microcontrollers (MCUs) connected via the I2C protocol, with one MCU serving as the master and two as slaves. Each MCU is dedicated to managing specific functionalities within the system, including a real-time clock, alarm, temperature control, lighting, and gate security.
