@@ -1,4 +1,6 @@
 # Smart Home Control System using PIC18F4620 Microcontrollers
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)     ![Embedded systems](https://img.shields.io/badge/Embedded%20systems-gray?style=flat)      ![PIC18f4620](https://img.shields.io/badge/PIC18f4620-Red?style=flat)
+
 ![image](https://github.com/user-attachments/assets/c654f969-92be-49f8-a35b-2ab721203352)
 ![image](https://github.com/user-attachments/assets/fd412120-4a82-4230-b705-927fcf46ec0b)
 
